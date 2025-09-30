@@ -46,7 +46,7 @@ Demo Login
 You can test the app using the following demo credentials:
 
 Username: demo@budgetly.com,
-Password: budget123
+Password: budget@123
 
 Roadmap / Future Enhancements
 
