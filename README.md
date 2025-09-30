@@ -17,15 +17,6 @@ Frontend: React, TailwindCSS, JavaScript
 Backend / Database: Supabase
 Version Control: Git & GitHub
 
-Project Structure
-budgetly/
-├── frontend/
-│   ├── src/           # React components & pages
-│   ├── public/        # Static files
-│   ├── .env           # Environment variables (not in repo)
-│   └── ...
-└── README.md
-
 Setup Instructions
 
 Clone the repository
