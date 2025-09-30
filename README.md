@@ -51,7 +51,7 @@ Password: budget123
 Roadmap / Future Enhancements
 
 Export analysis as PDF/Excel
-Mobile app version
+Mobile app version\n
 Adding AI suggestions to improve finance management.
 
 Contributing
