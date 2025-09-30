@@ -45,13 +45,13 @@ Demo Login
 
 You can test the app using the following demo credentials:
 
-Username: demo@budgetly.com
+Username: demo@budgetly.com,
 Password: budget123
 
 Roadmap / Future Enhancements
 
 Export analysis as PDF/Excel
-Mobile app version\n
+Mobile app version,
 Adding AI suggestions to improve finance management.
 
 Contributing
